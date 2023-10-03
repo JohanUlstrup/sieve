@@ -30,7 +30,7 @@ def sieve(n: int) -> list[int]:
 
 
 
-# Example usage:
+# Example usage: 
 n = 15
 result = sieve(n)
 print(result)
